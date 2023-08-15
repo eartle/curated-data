@@ -25,10 +25,31 @@ revisions:
   1.12.1:
     licensed:
       declared: OTHER
+  1.13.0-beta.4:
+    licensed:
+      declared: OTHER
+  1.13.1:
+    licensed:
+      declared: OTHER
   1.13.1-beta.1:
     licensed:
       declared: OTHER
+  1.13.2-beta.1:
+    licensed:
+      declared: OTHER
   1.14.1:
+    licensed:
+      declared: OTHER
+  1.14.1-alpha.20230531.1:
+    licensed:
+      declared: OTHER
+  1.14.1-beta.1:
+    licensed:
+      declared: OTHER
+  1.14.2-alpha.20230606.1:
+    licensed:
+      declared: OTHER
+  1.15.1-beta.1:
     licensed:
       declared: OTHER
   1.2.0-beta.1:
