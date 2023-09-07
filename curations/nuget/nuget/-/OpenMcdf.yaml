@@ -1,0 +1,14 @@
+coordinates:
+  name: OpenMcdf
+  provider: nuget
+  type: nuget
+revisions:
+  2.2.1.12:
+    described:
+      sourceLocation:
+        name: openmcdf
+        namespace: ironfede
+        provider: github
+        revision: 68552d9b69ed19e6fdab99111b2c669361fdee5a
+        type: git
+        url: 'https://github.com/ironfede/openmcdf/commit/68552d9b69ed19e6fdab99111b2c669361fdee5a'
