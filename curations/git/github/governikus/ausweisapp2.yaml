@@ -1,0 +1,9 @@
+coordinates:
+  name: ausweisapp2
+  namespace: governikus
+  provider: github
+  type: git
+revisions:
+  4c9e0be04cbce5392c803dbcdbcbc325fb5ba520:
+    licensed:
+      declared: EUPL-1.2
